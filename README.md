@@ -1,0 +1,1 @@
+This is basically me learning C from scratch. At least till now, every code is commented and they are pretty much useless. But it is constructed in a pedagogical way and following many different courses.
